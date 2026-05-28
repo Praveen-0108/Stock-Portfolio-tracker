@@ -1,0 +1,6 @@
+{
+  "name": "Stock Portfolio Tracker",
+  "description": "Calculate total investment value and manage your stock portfolio with custom or preset stock prices and CSV/TXT exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
